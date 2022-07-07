@@ -18,6 +18,9 @@ It provides the termination for the most commonly used transform ratios in hamra
 
 ![alt text](https://github.com/DG1JAN/Balun_Test_Tool/blob/main/pictures/schematic.png)
 
+Resistors are metall oxid thin film 1/4W SMD 1206 (3216).
+
+
 ![alt text](https://github.com/DG1JAN/Balun_Test_Tool/blob/main/pictures/3D_view.png)
 
 Feel free to use, copy, rebuild and share!
